@@ -1,6 +1,6 @@
 # -keepalive
 
-使用 Github Actions 以让 Koyeb 保持账户活跃
+使用 Github Actions 以让 保持账户活跃
 
 ## 部署说明
 
